@@ -1,0 +1,9 @@
+--Ekrana (Kağıt) 10 kez "merhaba dünya" yazdıran algoritmayı tanımlayın.
+ --Başla
+ --sayaç tanımla
+ --sayacı kontrol et (10'dan küçük mü?)
+	--Evet
+		--Ekrana Merhaba dünya yaz
+		--Sayacı artır
+	--Hayır
+		-Dur

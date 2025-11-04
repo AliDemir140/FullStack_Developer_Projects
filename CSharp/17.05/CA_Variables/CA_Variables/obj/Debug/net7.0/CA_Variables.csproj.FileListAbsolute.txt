@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\bin\Debug\net7.0\CA_Variables.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\bin\Debug\net7.0\CA_Variables.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\bin\Debug\net7.0\CA_Variables.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\bin\Debug\net7.0\CA_Variables.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\bin\Debug\net7.0\CA_Variables.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\refint\CA_Variables.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\CA_Variables.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_Variables\CA_Variables\obj\Debug\net7.0\ref\CA_Variables.dll

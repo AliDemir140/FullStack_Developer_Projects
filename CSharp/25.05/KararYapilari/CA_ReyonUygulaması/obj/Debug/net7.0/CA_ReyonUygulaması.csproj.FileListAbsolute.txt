@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\bin\Debug\net7.0\CA_ReyonUygulaması.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\bin\Debug\net7.0\CA_ReyonUygulaması.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\bin\Debug\net7.0\CA_ReyonUygulaması.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\bin\Debug\net7.0\CA_ReyonUygulaması.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\bin\Debug\net7.0\CA_ReyonUygulaması.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\refint\CA_ReyonUygulaması.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\CA_ReyonUygulaması.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_ReyonUygulaması\obj\Debug\net7.0\ref\CA_ReyonUygulaması.dll

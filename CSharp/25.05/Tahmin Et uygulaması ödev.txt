@@ -1,0 +1,20 @@
+//Tahmin Et uygulamasında kullanıcı giriş işlemi dahil edin. Kullanıcı giriş yaptıktan sonra giriş yapan kullanıcın 1 jetonu bulunsun. 1 jeton=5 tahmin hakkı.
+
+//Kullanıcının 10 jeton bakiye tanımlansın.
+
+
+
+//Oyun esnasında tahmin hakkı 0 olduğunda kullanıcıya "jeton almak ister misin?" sorusu sorulacak. kullanıcı "evet" değeri gönderidğinde 5 tahmin hakkı tanımlansın.
+
+//her doğru tahmin bir değişken içerisinde aşağıdaki format dahilinde saklansın.
+
+//3
+//3
+//seviye 1
+//tahmin 4
+
+"seviye 1-tahmin hak 4-bilenen sayı 3"
+
+---------------------------------------------
+
+Daha önce oluşturulan ödevde "Oyun parkına dahil edin"

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72987C59-31FC-4E13-BCF7-FF6DE6807660}|CA_Return_NoParam\\CA_Return_NoParam.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\15.06\\methods\\ca_return_noparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72987C59-31FC-4E13-BCF7-FF6DE6807660}|CA_Return_NoParam\\CA_Return_NoParam.csproj|solutionrelative:ca_return_noparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7147E7C-3D56-4140-A9AA-069364C620C4}|CA_Return_WithParam\\CA_Return_WithParam.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\15.06\\methods\\ca_return_withparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7147E7C-3D56-4140-A9AA-069364C620C4}|CA_Return_WithParam\\CA_Return_WithParam.csproj|solutionrelative:ca_return_withparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C6AE59-743A-4199-8AA3-DF361C855D8B}|CA_Void_Return\\CA_Void_Return.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\15.06\\methods\\ca_void_return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C6AE59-743A-4199-8AA3-DF361C855D8B}|CA_Void_Return\\CA_Void_Return.csproj|solutionrelative:ca_void_return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA53E-A9C0-429E-ACBB-6354172D27D5}|CA_Void_NoParam\\CA_Void_NoParam.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\15.06\\methods\\ca_void_noparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA53E-A9C0-429E-ACBB-6354172D27D5}|CA_Void_NoParam\\CA_Void_NoParam.csproj|solutionrelative:ca_void_noparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Return_WithParam\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Return_WithParam\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Return_WithParam\\Program.cs",
+              "RelativeToolTip": "CA_Return_WithParam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:07:05.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Return_NoParam\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Return_NoParam\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Return_NoParam\\Program.cs",
+              "RelativeToolTip": "CA_Return_NoParam\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:39:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Void_Return\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Void_Return\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Void_Return\\Program.cs",
+              "RelativeToolTip": "CA_Void_Return\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:19:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Void_NoParam\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Void_NoParam\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\15.06\\Methods\\CA_Void_NoParam\\Program.cs",
+              "RelativeToolTip": "CA_Void_NoParam\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:06:11.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

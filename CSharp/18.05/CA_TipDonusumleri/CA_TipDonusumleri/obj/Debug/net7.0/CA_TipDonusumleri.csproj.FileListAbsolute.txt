@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\bin\Debug\net7.0\CA_TipDonusumleri.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\bin\Debug\net7.0\CA_TipDonusumleri.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\bin\Debug\net7.0\CA_TipDonusumleri.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\bin\Debug\net7.0\CA_TipDonusumleri.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\bin\Debug\net7.0\CA_TipDonusumleri.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\refint\CA_TipDonusumleri.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\CA_TipDonusumleri.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TipDonusumleri\CA_TipDonusumleri\obj\Debug\net7.0\ref\CA_TipDonusumleri.dll

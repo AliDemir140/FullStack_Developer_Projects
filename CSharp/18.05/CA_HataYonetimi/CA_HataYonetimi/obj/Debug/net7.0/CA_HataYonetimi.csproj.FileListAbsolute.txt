@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\bin\Debug\net7.0\CA_HataYonetimi.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\bin\Debug\net7.0\CA_HataYonetimi.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\bin\Debug\net7.0\CA_HataYonetimi.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\bin\Debug\net7.0\CA_HataYonetimi.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\bin\Debug\net7.0\CA_HataYonetimi.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\refint\CA_HataYonetimi.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\CA_HataYonetimi.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_HataYonetimi\CA_HataYonetimi\obj\Debug\net7.0\ref\CA_HataYonetimi.dll

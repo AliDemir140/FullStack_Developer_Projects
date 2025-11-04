@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\bin\Debug\net7.0\CA_YemekTarif.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\bin\Debug\net7.0\CA_YemekTarif.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\bin\Debug\net7.0\CA_YemekTarif.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\bin\Debug\net7.0\CA_YemekTarif.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\bin\Debug\net7.0\CA_YemekTarif.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\refint\CA_YemekTarif.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\CA_YemekTarif.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_YemekTarif\CA_YemekTarif\obj\Debug\net7.0\ref\CA_YemekTarif.dll

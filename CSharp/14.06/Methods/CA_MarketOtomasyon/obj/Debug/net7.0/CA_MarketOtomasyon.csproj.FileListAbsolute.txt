@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\bin\Debug\net7.0\CA_MarketOtomasyon.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\bin\Debug\net7.0\CA_MarketOtomasyon.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\bin\Debug\net7.0\CA_MarketOtomasyon.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\bin\Debug\net7.0\CA_MarketOtomasyon.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\bin\Debug\net7.0\CA_MarketOtomasyon.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\refint\CA_MarketOtomasyon.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\CA_MarketOtomasyon.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_MarketOtomasyon\obj\Debug\net7.0\ref\CA_MarketOtomasyon.dll

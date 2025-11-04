@@ -1,0 +1,15 @@
+//Bir console uygulaması oluşturun ve aşağıdaki işlemleri uygulamaya dahil edin.
+
+Menü oluşturulması gerekmektedir bu menü içerisinde şu ana kadar gördüğümüz örnekler seçilip çalıştırabilinmeli.
+
+
+***Menu***
+1-Sayı tahmin
+2-Barbut
+3-Yolcu listesi
+4-Kahve sipariş uygulaması
+seçim: 3
+
+Opsiyonel: verilerin dinamik olarak console'dan alınması.
+
+Örnek vermek gerekirse Önce kahveler tanımlasın ardından sipariş oluşturulsun.

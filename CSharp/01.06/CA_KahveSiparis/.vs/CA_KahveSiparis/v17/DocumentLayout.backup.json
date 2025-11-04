@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\01.06\\CA_KahveSiparis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7F8C06-6B9C-40ED-B4E8-8E001E730437}|CA_KahveSiparis\\CA_KahveSiparis.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\01.06\\ca_kahvesiparis\\ca_kahvesiparis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7F8C06-6B9C-40ED-B4E8-8E001E730437}|CA_KahveSiparis\\CA_KahveSiparis.csproj|solutionrelative:ca_kahvesiparis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\01.06\\CA_KahveSiparis\\CA_KahveSiparis\\Program.cs",
+              "RelativeDocumentMoniker": "CA_KahveSiparis\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\01.06\\CA_KahveSiparis\\CA_KahveSiparis\\Program.cs",
+              "RelativeToolTip": "CA_KahveSiparis\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:21:00.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

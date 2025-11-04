@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\25.05\\Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D34FF2-AC12-4878-A6E1-6143764EA4C2}|CA_While\\CA_While.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\25.05\\loops\\ca_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D34FF2-AC12-4878-A6E1-6143764EA4C2}|CA_While\\CA_While.csproj|solutionrelative:ca_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\25.05\\Loops\\CA_While\\Program.cs",
+              "RelativeDocumentMoniker": "CA_While\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\25.05\\Loops\\CA_While\\Program.cs",
+              "RelativeToolTip": "CA_While\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:16:22.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

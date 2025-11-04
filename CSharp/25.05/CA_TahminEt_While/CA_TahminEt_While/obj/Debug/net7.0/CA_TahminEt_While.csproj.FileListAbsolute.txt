@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\bin\Debug\net7.0\CA_TahminEt_While.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\bin\Debug\net7.0\CA_TahminEt_While.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\bin\Debug\net7.0\CA_TahminEt_While.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\bin\Debug\net7.0\CA_TahminEt_While.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\bin\Debug\net7.0\CA_TahminEt_While.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\refint\CA_TahminEt_While.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\CA_TahminEt_While.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt_While\CA_TahminEt_While\obj\Debug\net7.0\ref\CA_TahminEt_While.dll

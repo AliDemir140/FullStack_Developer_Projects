@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\bin\Debug\net7.0\CA_For.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\bin\Debug\net7.0\CA_For.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\bin\Debug\net7.0\CA_For.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\bin\Debug\net7.0\CA_For.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\bin\Debug\net7.0\CA_For.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\refint\CA_For.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\CA_For.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_For\obj\Debug\net7.0\ref\CA_For.dll

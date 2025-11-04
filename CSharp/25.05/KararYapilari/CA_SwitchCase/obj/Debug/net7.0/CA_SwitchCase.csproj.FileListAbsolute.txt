@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\bin\Debug\net7.0\CA_SwitchCase.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\bin\Debug\net7.0\CA_SwitchCase.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\bin\Debug\net7.0\CA_SwitchCase.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\bin\Debug\net7.0\CA_SwitchCase.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\bin\Debug\net7.0\CA_SwitchCase.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\refint\CA_SwitchCase.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\CA_SwitchCase.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\KararYapilari\CA_SwitchCase\obj\Debug\net7.0\ref\CA_SwitchCase.dll

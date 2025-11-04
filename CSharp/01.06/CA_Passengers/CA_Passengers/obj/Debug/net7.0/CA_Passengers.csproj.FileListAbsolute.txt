@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\bin\Debug\net7.0\CA_Passengers.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\bin\Debug\net7.0\CA_Passengers.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\bin\Debug\net7.0\CA_Passengers.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\bin\Debug\net7.0\CA_Passengers.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\bin\Debug\net7.0\CA_Passengers.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\refint\CA_Passengers.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\CA_Passengers.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_Passengers\CA_Passengers\obj\Debug\net7.0\ref\CA_Passengers.dll

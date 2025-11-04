@@ -1,0 +1,29 @@
+fatih.gunalp@bilgeadam.com
+
+
+
+--Hakan: Adana Kebap
+--Sedat: Tavuk pilav
+--Yiğit: Kayseri mantısı
+--Arda: Mercimek Çorbası
+--Recep: Fırında Balık
+--Muhammet: Kek
+--Amine: Yaprak
+--Kenan: Mercimek Çorba
+--Ali: Sucuklu Yumurta
+
+
+
+---------------------------
+
+1-Başla
+2-buzdolabının kapağını kontrol et
+	--Açık mı?	
+		2 adet yumurta al
+	--Kapalı mı?
+		Aç
+3-yumurtaları tezgahın üzerine yavaşça bırak
+4-
+5-
+6-
+

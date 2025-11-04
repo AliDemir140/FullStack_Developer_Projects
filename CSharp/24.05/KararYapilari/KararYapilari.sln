@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_IfElse", "CA_IfElse\CA_IfElse.csproj", "{2E041D5D-0AE1-4662-9795-A73FE305900D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_ReyonUygulaması", "CA_ReyonUygulaması\CA_ReyonUygulaması.csproj", "{AE7BD72E-CE5E-4ADA-8567-8096BB68A303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_Barbut", "CA_Barbut\CA_Barbut.csproj", "{6838795B-94F1-4B81-9986-332EB89BB979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E041D5D-0AE1-4662-9795-A73FE305900D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E041D5D-0AE1-4662-9795-A73FE305900D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E041D5D-0AE1-4662-9795-A73FE305900D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E041D5D-0AE1-4662-9795-A73FE305900D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7BD72E-CE5E-4ADA-8567-8096BB68A303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7BD72E-CE5E-4ADA-8567-8096BB68A303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7BD72E-CE5E-4ADA-8567-8096BB68A303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7BD72E-CE5E-4ADA-8567-8096BB68A303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6838795B-94F1-4B81-9986-332EB89BB979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6838795B-94F1-4B81-9986-332EB89BB979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6838795B-94F1-4B81-9986-332EB89BB979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6838795B-94F1-4B81-9986-332EB89BB979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

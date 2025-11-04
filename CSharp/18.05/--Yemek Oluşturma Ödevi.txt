@@ -1,0 +1,18 @@
+--Yemek Oluşturma Ödevi
+
+console uygulaması çalıştığında kullanıcıdan o yemek için malzeme bilgilerini alın.
+
+Örn.
+
+Tavuk miktar (Kg) girin: 1
+Pirinç miktar (Kg) girin: 1
+
+
+bütün malzeme kullanıcı tarafından girildikten sonra yemek yapımı aşamasında mevcut miktarlardan ne kadarı kullanılacaksa kullanıcıdan alın.
+
+Örn.
+
+kaç gram tavuk kullanılacak: 500
+kaç gram pirinç kullanılacak: 500
+
+kullanılan malzemeler ile yemek yapım aşaması tanımlanacak. Ardından kullanıcıya elde kalan malzeme bilgileri özet olarak gösterilecek.

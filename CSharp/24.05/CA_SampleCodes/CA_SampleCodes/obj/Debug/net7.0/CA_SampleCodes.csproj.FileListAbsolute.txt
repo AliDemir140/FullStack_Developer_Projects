@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\bin\Debug\net7.0\CA_SampleCodes.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\bin\Debug\net7.0\CA_SampleCodes.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\bin\Debug\net7.0\CA_SampleCodes.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\bin\Debug\net7.0\CA_SampleCodes.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\bin\Debug\net7.0\CA_SampleCodes.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\refint\CA_SampleCodes.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\CA_SampleCodes.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\CA_SampleCodes\CA_SampleCodes\obj\Debug\net7.0\ref\CA_SampleCodes.dll

@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\bin\Debug\net7.0\CA_DoWhile.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\bin\Debug\net7.0\CA_DoWhile.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\bin\Debug\net7.0\CA_DoWhile.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\bin\Debug\net7.0\CA_DoWhile.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\bin\Debug\net7.0\CA_DoWhile.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\refint\CA_DoWhile.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\CA_DoWhile.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_DoWhile\obj\Debug\net7.0\ref\CA_DoWhile.dll

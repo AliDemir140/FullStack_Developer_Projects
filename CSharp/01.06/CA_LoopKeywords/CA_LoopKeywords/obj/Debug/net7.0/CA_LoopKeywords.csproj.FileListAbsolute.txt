@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\bin\Debug\net7.0\CA_LoopKeywords.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\bin\Debug\net7.0\CA_LoopKeywords.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\bin\Debug\net7.0\CA_LoopKeywords.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\bin\Debug\net7.0\CA_LoopKeywords.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\bin\Debug\net7.0\CA_LoopKeywords.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\refint\CA_LoopKeywords.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\CA_LoopKeywords.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\01.06\CA_LoopKeywords\CA_LoopKeywords\obj\Debug\net7.0\ref\CA_LoopKeywords.dll

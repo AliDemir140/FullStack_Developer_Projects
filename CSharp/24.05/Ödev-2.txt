@@ -1,0 +1,11 @@
+--Yemek hazırlama console uygulamasında Karar yapısı kullanımı.
+--1 paket makarna 1 KG
+--1 kişilik makarna 250 gr
+
+
+--tencereye 1 litre su koyduktan sonra ocağaın altını açarak kaynayıncaya kadar bekleyin.
+--Su kaynadı mı?
+	--Evet
+		--250 gr makarnayı tencereye boşalt
+	--Hayır
+		--bekle

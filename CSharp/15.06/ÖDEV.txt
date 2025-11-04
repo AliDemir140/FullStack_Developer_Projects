@@ -1,0 +1,12 @@
+	--Hakan: Borsa 
+	--Sedat: Futbol takımı => (Pazar)
+	--Ömer: Maçkolik
+	--Yiğit: Dış cephe yalıtım malzemeleri
+	--Ikranur: Spotify
+	--Ibrahim Ethem: SAP
+	--Muhammet Veli: eticaret
+	--Kenan: Voleybol takımı
+	--Recep: Fitness uygulaması
+	--Arda: Hastane
+	--Berkay: Banka
+	--Ali: Okul

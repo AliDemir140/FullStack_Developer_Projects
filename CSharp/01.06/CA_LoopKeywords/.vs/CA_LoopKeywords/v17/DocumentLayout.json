@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\01.06\\CA_LoopKeywords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D11280-74A6-42C5-B0C9-8C386A66FD57}|CA_LoopKeywords\\CA_LoopKeywords.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\01.06\\ca_loopkeywords\\ca_loopkeywords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D11280-74A6-42C5-B0C9-8C386A66FD57}|CA_LoopKeywords\\CA_LoopKeywords.csproj|solutionrelative:ca_loopkeywords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\01.06\\CA_LoopKeywords\\CA_LoopKeywords\\Program.cs",
+              "RelativeDocumentMoniker": "CA_LoopKeywords\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\01.06\\CA_LoopKeywords\\CA_LoopKeywords\\Program.cs",
+              "RelativeToolTip": "CA_LoopKeywords\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:27:10.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

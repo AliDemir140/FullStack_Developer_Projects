@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\bin\Debug\net7.0\CA_ConsoleApp.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\bin\Debug\net7.0\CA_ConsoleApp.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\bin\Debug\net7.0\CA_ConsoleApp.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\bin\Debug\net7.0\CA_ConsoleApp.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\bin\Debug\net7.0\CA_ConsoleApp.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\refint\CA_ConsoleApp.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\CA_ConsoleApp.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\17.05\CA_ConsoleApp\CA_ConsoleApp\obj\Debug\net7.0\ref\CA_ConsoleApp.dll

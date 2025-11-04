@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\bin\Debug\net7.0\CA_While.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\bin\Debug\net7.0\CA_While.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\bin\Debug\net7.0\CA_While.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\bin\Debug\net7.0\CA_While.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\bin\Debug\net7.0\CA_While.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\refint\CA_While.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\CA_While.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\Loops\CA_While\obj\Debug\net7.0\ref\CA_While.dll

@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\bin\Debug\net7.0\CA_TryCatch.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\bin\Debug\net7.0\CA_TryCatch.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\bin\Debug\net7.0\CA_TryCatch.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\bin\Debug\net7.0\CA_TryCatch.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\bin\Debug\net7.0\CA_TryCatch.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\refint\CA_TryCatch.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\CA_TryCatch.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_TryCatch\CA_TryCatch\obj\Debug\net7.0\ref\CA_TryCatch.dll

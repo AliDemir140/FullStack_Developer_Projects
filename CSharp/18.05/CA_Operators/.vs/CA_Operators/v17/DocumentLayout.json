@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\18.05\\CA_Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B0B4BE-1253-4F1B-BBFF-BD91B1CE3F3B}|CA_Operators\\CA_Operators.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\18.05\\ca_operators\\ca_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B0B4BE-1253-4F1B-BBFF-BD91B1CE3F3B}|CA_Operators\\CA_Operators.csproj|solutionrelative:ca_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\18.05\\CA_Operators\\CA_Operators\\Program.cs",
+              "RelativeDocumentMoniker": "CA_Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\18.05\\CA_Operators\\CA_Operators\\Program.cs",
+              "RelativeToolTip": "CA_Operators\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:13:32.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

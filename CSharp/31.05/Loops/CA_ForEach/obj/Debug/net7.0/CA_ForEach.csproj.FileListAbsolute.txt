@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\bin\Debug\net7.0\CA_ForEach.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\bin\Debug\net7.0\CA_ForEach.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\bin\Debug\net7.0\CA_ForEach.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\bin\Debug\net7.0\CA_ForEach.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\bin\Debug\net7.0\CA_ForEach.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\refint\CA_ForEach.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\CA_ForEach.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\31.05\Loops\CA_ForEach\obj\Debug\net7.0\ref\CA_ForEach.dll

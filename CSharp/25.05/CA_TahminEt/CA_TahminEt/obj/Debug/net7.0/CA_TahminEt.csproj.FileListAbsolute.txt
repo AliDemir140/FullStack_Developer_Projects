@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\refint\CA_TahminEt.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\25.05\CA_TahminEt\CA_TahminEt\obj\Debug\net7.0\ref\CA_TahminEt.dll

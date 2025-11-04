@@ -1,0 +1,15 @@
+domates, biber, patlıcan
+manava
+1-domates
+2-biber
+3-patlıcan
+seçim: 2
+
+
+Barbut, 101, tavla
+Oyun alanı 3. kattadır.
+1-Barbut
+seçim: 1
+
+
+Opsiyonel: Barbut oyunu için oyuncunun jeton alması gerekmektedir. Her oyun 2 jeton

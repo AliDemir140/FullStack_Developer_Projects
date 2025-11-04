@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\bin\Debug\net7.0\CA_Retıurn_WithParam.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\bin\Debug\net7.0\CA_Retıurn_WithParam.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\bin\Debug\net7.0\CA_Retıurn_WithParam.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\bin\Debug\net7.0\CA_Retıurn_WithParam.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\bin\Debug\net7.0\CA_Retıurn_WithParam.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\refint\CA_Retıurn_WithParam.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\CA_Retıurn_WithParam.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\14.06\Methods\CA_Retıurn_WithParam\obj\Debug\net7.0\ref\CA_Retıurn_WithParam.dll

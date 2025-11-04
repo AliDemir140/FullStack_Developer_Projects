@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CA_Void_NoParam/1.0.0": {
+        "runtime": {
+          "CA_Void_NoParam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA_Void_NoParam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

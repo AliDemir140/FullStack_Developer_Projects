@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\25.05\\CA_TahminEt_While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6E3E07-73A5-43DD-ABC0-40AB1C805F5A}|CA_TahminEt_While\\CA_TahminEt_While.csproj|c:\\users\\fatih\\desktop\\yzl3447\\c#\\25.05\\ca_tahminet_while\\ca_tahminet_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6E3E07-73A5-43DD-ABC0-40AB1C805F5A}|CA_TahminEt_While\\CA_TahminEt_While.csproj|solutionrelative:ca_tahminet_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\25.05\\CA_TahminEt_While\\CA_TahminEt_While\\Program.cs",
+              "RelativeDocumentMoniker": "CA_TahminEt_While\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\YZL3447\\C#\\25.05\\CA_TahminEt_While\\CA_TahminEt_While\\Program.cs",
+              "RelativeToolTip": "CA_TahminEt_While\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:46:52.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

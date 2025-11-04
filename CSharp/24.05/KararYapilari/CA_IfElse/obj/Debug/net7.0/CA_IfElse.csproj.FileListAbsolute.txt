@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\bin\Debug\net7.0\CA_IfElse.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\bin\Debug\net7.0\CA_IfElse.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\bin\Debug\net7.0\CA_IfElse.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\bin\Debug\net7.0\CA_IfElse.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\bin\Debug\net7.0\CA_IfElse.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\refint\CA_IfElse.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\CA_IfElse.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\24.05\KararYapilari\CA_IfElse\obj\Debug\net7.0\ref\CA_IfElse.dll

@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\bin\Debug\net7.0\CA_Operators.exe
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\bin\Debug\net7.0\CA_Operators.deps.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\bin\Debug\net7.0\CA_Operators.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\bin\Debug\net7.0\CA_Operators.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\bin\Debug\net7.0\CA_Operators.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\refint\CA_Operators.dll
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.pdb
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\CA_Operators.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3447\C#\18.05\CA_Operators\CA_Operators\obj\Debug\net7.0\ref\CA_Operators.dll
