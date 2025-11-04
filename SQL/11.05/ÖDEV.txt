@@ -1,0 +1,28 @@
+--MovieTheater Veritabanı
+	--DDL kullanımı
+		--veritabanı tablo, kolon ve ilişkilendirmeler
+
+	--DML kullanımı
+		--veriler eklenecek,
+		--eklenen verilere oluşturalan sorgular devreye girecek.
+
+
+
+
+--Instagram veritabanı
+	--DDL kullanımı
+		--veritabanı tablo, kolon ve ilişkilendirmeler
+
+	--DML kullanımı
+		--veriler eklenecek,
+		--eklenen verilere oluşturalan sorgular devreye girecek.
+
+
+--Kendi oluşturduğunuz veritabanı
+	--DDL kullanımı
+		--veritabanı tablo, kolon ve ilişkilendirmeler
+
+	--DML kullanımı
+		--veriler eklenecek,
+		--eklenen verilere oluşturalan sorgular devreye girecek.
+

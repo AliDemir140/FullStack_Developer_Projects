@@ -1,0 +1,22 @@
+--ÖDEV 1
+
+--Instagram veritabanı normalizasyon tarafında ortaya çıkardığımız tablo, kolon ve ilişkilendirlerini SQL Management studio'da veritabanı haline getirin.
+
+--ÖDEV 2
+Veritabanı oluşturulmadan öcne o veritabanı'nın tanımını gerçekleştirin ihtiyaç duyulan tabloları ve tablo içerisinde kullanılacak kolonları belirleyin. 
+	--Hakan: Borsa 
+	--Sedat: Futbol takımı
+	--Ömer: Maçkolik
+	--Yiğit: Dış cephe yalıtım malzemeleri
+	--Ikranur: Spotify
+	--Ibrahim Ethem: SAP
+	--Muhammet Veli: eticaret
+	--Kenan: Voleybol takımı
+	--Recep: Fitness uygulaması
+	--Arda: Hastane
+	--Berkay: Banka
+	
+
+
+
+

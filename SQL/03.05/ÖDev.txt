@@ -1,0 +1,12 @@
+--Telefon sesli de açalarsa sınıfa tatlı ısmarlar.
+--Ödevi yapmayan sınıfa tatlı ısmarlar.
+
+
+--veri eklenecek
+--soru oluşturalacak.
+--t-sql kullanılacak.
+	--select
+	--where
+
+--5 adet select
+--5 adet where sorgusu
