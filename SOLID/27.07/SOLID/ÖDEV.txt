@@ -1,0 +1,28 @@
+//Bir insan kaybnakları uygulaması oluşturun. Bu uygulama içerisinde şirkete personel alımı için bir aday listesi oluşturun (10 aday). Daha sonra bu adaylar listesinden işe alımı gerçekleştirilecek (3 personel) kişileri farklı bir listede toplayın.
+
+Muhasebe Departmanı => 1 kişi
+Bilgi İşlem Departmanı=> 1 kişi
+Satış Pazarlama => 1 kişi
+
+//Muhasebe departmanında işe alımı gerçekleştirilen personelin saatlik ücreti 100 TL olacak.
+
+//Bilgi İşlem Departmanı işe alımı gerçekleştirilen personelin saatlik ücreti 150 TL olacak.
+
+//Satış Pazarlama Departmanı işe alımı gerçekleştirilen personelin saatlik ücreti 125 TL olacak.
+
+
+Not: işe alım yapılan personelin kurumsal email adresi de oluşturulacak. (örn: ad.soyad@northwind.com)
+
+/////////////////////////
+Email: nancy.davilo@northwind.com Departman: Muhasebe Saatlik ücret: 100
+Email: andrew.fuller@northwind.com Departman: Bilgi İşlem Saatlik ücret: 150
+Email: anne.dodthsworth@northwind.com Departman: Satış Pazarlama Saatlik ücret: 125
+////////////////////////
+
+Yukarıda gerçekleştirlecek projeyi SOLID prensiplerine uygun bir şekilde yazılacak.
+
+
+
+
+
+
