@@ -1,0 +1,30 @@
+//Futbol Takımı
+	//Kaleci
+	//Defans
+	//Ortasaha
+	//Forvet
+
+//Console uygulamasından kullanıcı giriş yaparak oluşturacak. Class, Encapsulation ve Polymorphism dahil edilerek oluşturulacak. Ödevler github'a yüklenecek. Drive'a yükleyebilirsiniz.
+
+Ikra için Makyaj çantası uygulaması...
+
+/////////////
+
+**Futbol takımı oluşturucu***
+1-Kaleci
+2-Defans
+3-Ortasaha
+4-Forvet
+5-Takımı Listele
+seçim: 1
+Ad:
+Soyad:
+Forma No:
+Şut gücü: 
+xxxxx isminde kaleci oluşturuldu ve takıma eklendi.
+1-Kaleci
+2-Defans
+3-Ortasaha
+4-Forvet
+5-Takımı Listele.
+seçim: 2

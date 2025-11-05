@@ -1,0 +1,5 @@
+//Kahve Sipariş uygulamasını Class mantığı ile oluşturun.
+
+//nesneler oluşturarak bu nesneleri Program.cs içerisinde işlemlere tabii tutun.
+
+//İşlemediğimiz konular dahil edilmeyecek.

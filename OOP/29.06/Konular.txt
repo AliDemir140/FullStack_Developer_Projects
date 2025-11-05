@@ -1,0 +1,8 @@
+//Polymorphism => Çok biçimlik
+//Constructor => Yapıcı Metot
+//Static => Sabit, Durağan ve değişmeyen nesneler.
+//Stack(Value Types) ve Heap (Reference Types) alanlarının yapısını.
+//
+//Single Responsibility (Tekil sorumluluk prensibi) => gelişime açık ve sürdürülebilinir olmasını dahil eder.
+
+//SOLID
