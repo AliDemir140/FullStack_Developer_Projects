@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tablo İşlemleri</title>
+</head>
+<body>
+    <h1>Tablo işlemleri</h1>
+    <p>
+        Sayfa üzerinde bir takım verileri tablo formatında göstermek için ihtiyacımız olan etiket <strong>table</strong> etiketidir.
+        <ol>
+            table etiketi ile birlikte kullanabileceğimiz etiketler aşağıdır.
+            <li>
+                <b>tr: </b> (table row) tablonun satırını temsil eder.
+            </li>
+            <li>
+                <b>td: </b> (table data) tablonun sütun'nu (kolon) temsil eder.
+            </li>
+            <li>
+                <b>th:</b> (table head) tablonun başlık olarak sütununu temsil eder. Yani sütun isimlerini kalın ve ortalnmış olarak gösterir.
+            </li>
+            <li>
+                <b>border: </b> tabloya çerçeve dahil eden attribute.
+            </li>
+            <li>
+                <b>Cellpadding: </b> hücrelerin iç çerçeveye olan uzaklını verir.
+            </li>
+            <li>
+                <b>Cellspacing: </b> hücrelerin dış çerçeveye olan mesafesi.
+            </li>
+            <li>
+                <b>width:</b> tablonun genişliğini verir.
+            </li>
+        </ol>
+    </p>
+    <hr/>
+    <table border="1" cellpadding="10" cellspacing="10" width="100%">
+        <tr>
+            <td>Sütun 1</td>
+            <td>Sütun 2</td>
+            <td>Sütun 3</td>
+        </tr>
+        <tr>
+            <td>Sütun 1.1</td>
+            <td>Sütun 2.1</td>
+            <td>Sütun 3.1</td>
+        </tr>
+        <tr>
+            <td>Sütun 1.2</td>
+            <td>Sütun 2.2</td>
+            <td>Sütun 3.3</td>
+        </tr>
+    </table>
+    <hr/>
+
+    <h2>Ürünler Listesi</h2>
+    <table border="1" width="100%">
+       <thead>
+           <!--burası tablo içerisinde yeralan başlıkları temsil eder.-->
+           <tr>
+               <th>ID</th>
+               <th>Product Name</th>
+               <th>UnitPrice</th>
+               <th>UnitsInStock</th>
+           </tr>
+       </thead>
+       <tbody>
+           <tr>
+               <td>1</td>
+               <td>Chai</td>
+               <td>18</td>
+               <td>500</td>
+           </tr>
+           <tr>
+               <td>2</td>
+               <td>Chang</td>
+               <td>15</td>
+               <td>500</td>
+           </tr>
+       </tbody>
+    </table>
+
+    <hr />
+
+    <h2>Kategori Listesi</h2>
+    <table border="1" width="100%">
+        <thead>
+          
+            <tr>
+                <th>ID</th>
+                <th>Category Name</th>
+                <th>Description</th>
+                <th>İşlem</th>
+            </tr>
+        </thead>
+        <tbody>
+           <tr>
+               <td>1</td>
+               <td>Beverages</td>
+               <td>Yiyecek içecek...</td>
+               <td>
+                   <center>
+                       <button>update</button>
+                       <button>delete</button>
+                   </center>
+               </td>
+           </tr>
+        </tbody>
+    </table>
+</body>
+</html>

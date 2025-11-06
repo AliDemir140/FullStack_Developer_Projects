@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Görsel ve Link İşlemleri</title>
+</head>
+<body>
+    <h1>Görsel ve Link İşlemleri</h1>
+    <hr/>
+    <p>
+        Link vermek ve kullanıcıyı ilgili linke yönlendirmek işçin kullanılan etiket <strong>"a"</strong> etiketidir.
+
+        a etiketi ile birlikte kullanılan bir takım attribute'ler bulunmaktadır. Bunlar;
+        <br/>
+        1.href: source kelimesinin kısaltılmışıdır. link hangi kaynağaya yönlendirilecekse onu temsil eder. 
+        <br/>
+        2.target: link yeni bir sekmede mi açılsın yoksa bağlı bulunduğu sayfada mı?
+        <br/>
+            2.1.blank: linki yeni bir sekmede açar.
+            2.2.self: linki ait olduğu sayfada açar.
+    </p>
+
+    <p>
+        <a href="https://google.com" target="_blank">Google</a>
+    </p>
+    <hr/>
+    <a href="1_TemelEtiketler.html" target="_self">Temel etiketler</a>
+    <hr/>
+    <h2>Görsel işlemler</h2>
+    <p>
+        Sayfa içerisinde bir görsel dahil etmek istediğimzide bu işlem için <strong>img</strong> etiketi kullanılmalıdır. bu etiket ile birlikte kullanılacak bazı attribute'ler şunlardır;
+        <br />
+        1-src: source(kaynak) görselin kaynağını temsil eder.
+        2-width: görselin genişliğini temsil eder.
+        3-height: görselin yüksekliğini temsil eder.
+        4-title: görsele tanımlanacak olan başlık kısmını temsil eder. mouse ile üzerine gelindiğinde gösterilir.
+        5-alt: alternative text anlamında kullanılan, görsel bir sebepten dolayı yüklenmediğinde görsel yerine kullanılack metni temsil eder.
+
+    </p>
+    <h3>Dış kaynakta bulunan görsel</h3>
+    <img src="https://blog.obilet.com/wp-content/uploads/2023/07/0anagorsel-1-scaled.jpeg" width="350" height="250" title="manzara görseli" alt="burada bir göl manzarası bulunmaktadır." />
+    <hr />
+    <h3>Bilgisayarda kayıtlı görseller</h3>
+    <img src="images/kızkulesi.jpeg" />
+    <img src="images/manzara.jpeg"/>
+</body>
+</html>

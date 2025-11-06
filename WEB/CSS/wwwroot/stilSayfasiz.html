@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <!--internal css-->
+    <style>
+
+        /*
+            html içerisinde id özniteliğine ulaşmak istiyorsak bunu # kullanarak, class özniteliğine ulaşmak istiyorsak . olarak ulaşabiliriz.
+
+        */
+        /*body{
+            width:1080px;
+            height:auto;
+            background-color:aqua;
+        }*/
+
+        /*div {
+            width: 1080px;
+            height: auto;
+            background-color: aqua;
+        }*/
+
+        #container {
+            width: 1080px;
+            height: auto;
+           /* background-color: aqua;*/
+        }
+        #navbar{
+            width:1080px;
+            height:100px;
+            background-color:chartreuse;
+        }
+
+        .menu{
+            width:100px;
+            height:500px;
+            background-color:crimson;
+            float:left;
+        }
+
+        #content{
+            width:880px;
+            height:500px;
+            background-color:darkslateblue;
+            float:left;
+        }
+        #footer {
+            width: 1080px;
+            height: 100px;
+            background-color: chartreuse;
+            float:left;
+        }
+
+        h2{
+            color:white;
+        }
+
+        /*#container #navbar h2{
+            color:white;
+        }*/
+        
+        #navbar-title{
+            width:100px;
+            color:black;
+            margin-left:auto;
+            margin-right:auto;
+            line-height:100px;
+        }
+
+        #menu-title{
+            font-size:14px;
+            text-align:center;
+            line-height:350px;
+            a
+        }
+
+        #content-title {
+            text-align: center;
+            line-height: 350px;
+        }
+
+        #footer-title{
+            text-align:center;
+            color:black;
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>CSS (Cascading Style Sheets)</h1>
+   
+    <ul>
+        CSS yapısı özünde 3 farklı yaklaşım ile kullanılır.
+        <li>Inline Css: ait olunan etiket içerisinde style attribute'nu kullanarak gerçekleştirilen işlem.</li>
+        <li>Internal Css: </li> ait olunan sayfa içerisinde kullanılan stil işlemleri.
+        <li>External Css: </li> dış kaynaktan sayfaya aktarılan stil işlemleri.
+    </ul>
+
+    <hr/>
+
+    <div id="container">
+        <div id="navbar">
+            <h2 id="navbar-title">Navbar</h2>
+        </div>
+        <div class="menu">
+            <h2 id="menu-title">
+                Left Menu
+            </h2>
+        </div>
+        <div id="content">
+            <h2 id="content-title">
+                Content
+            </h2>
+        </div>
+        <div class="menu">
+            <h2 id="menu-title">
+                Right Menu
+            </h2>
+        </div>
+        <div id="footer">
+            <h2 id="footer-title">Footer</h2>
+        </div>
+    </div>
+
+</body>
+</html>
