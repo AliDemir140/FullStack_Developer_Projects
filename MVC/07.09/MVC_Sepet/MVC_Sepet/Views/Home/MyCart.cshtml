@@ -1,0 +1,67 @@
+﻿@model CartItem
+@{
+    ViewData["Title"] = "MyCart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    decimal? totalPrice = 0;
+}
+
+<div class="row p-4">
+    <div class="col-md-9">
+        <div class="card">
+            <div class="card-body">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Ürün Ad</th>
+                            <th>Birim Fiyat</th>
+                            <th>Adet</th>
+                            <th>Ara Toplam</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model._myCart.Values)
+                        {
+
+                            totalPrice += item.Subtotal;
+                            <tr>
+                                <td>@item.ProductName</td>
+                                <td>@item.UnitPrice</td>
+                                <td>@item.Quantity</td>
+                                <td>@item.Subtotal</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+
+       <div class="card">
+           <div class="card-body">
+                <h2>Toplam Tutar:  </h2>
+                <h1>@totalPrice₺</h1>
+
+                <button class="btn btn-success">Alışverişi Tamamla</button>
+           </div>
+       </div>
+      
+    </div>
+</div>
+
+<div class="row">
+    <div class="card">
+        <div class="card-header">
+            <h2>ÖDEV</h2>
+        </div>
+        <div class="card-body">
+            <ul>
+                <li>"Alışverişi tamamla" butonu tıklandığında sepetteli ürünlere ait bir "Order" oluşturulması gerekmetekdir.</li>
+                <li>Oluşturulan Order OrderDetails tablosuna eklenecek. Kullanıcı yeni bir sayfaya yönlendirilecek. (Home/Pending)</li>
+                <li>Pending sayfasında oluşturulan sipariş numarası kullanıcıya gösterilecek. Sipariş Kargoya verildiğinde bu sayfada kargo gösterilecek.</li>
+            </ul>
+
+        </div>
+    </div>
+</div>

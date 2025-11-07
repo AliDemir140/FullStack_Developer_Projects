@@ -1,0 +1,79 @@
+﻿@model List<MVC_DataTransfer.Models.Product>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Data Transfer</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h2>Model</h2>
+                <span>
+                    Bir controller içerisinde bulunan Bir Action metot dahilinde bilginin controller'dan View'a taşınmasına olanak sağlar.
+                </span>
+            </div>
+            <div class="card-body">
+                <!--Burada sayfaya gönderilen Model listelenir.-->
+               <ul>
+                    @foreach (var product in Model)
+                    {
+                        <li>@product.ID @product.ProductName @product.UnitPrice</li>
+                    }
+               </ul>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="card-header">
+                <h2>ViewData</h2>
+                <span>
+                    içerisinde küçük boyutlu veri saklayan ve bu verileri içerisinde doğrudan object olarak tutan MVC bileşenidir. Eğer ViewData içerisinde bulunan verileri doğrudan görüntülemek istiyorsak Cast işlemini uygulamamız gerekmektedir. ViewData'lar oluşturuldukları Action'a  ait View'larda yaşamlarını sürdürürler.
+                </span>
+
+                <div class="card-body">
+                    <ul>
+                        @foreach (var category in ViewData["Categories"] as List<MVC_DataTransfer.Models.Category>)
+                        {
+                            <li>@category.ID @category.CategoryName</li>
+                        }
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2>ViewBag</h2>
+                <span>
+                    içerisinde küçük boyutlu veri saklayan ve bu verileri içerisinde doğrudan object olarak tutan MVC bileşenidir. Aralarındaki en büyük fark ViewData cast işlemini zorunlu hale getrir ViewBag isteğe bağlı olarak kullanılır.
+                </span>
+            </div>
+            <div class="card-body">
+                <ul>
+                    @foreach (var item in ViewBag.Suppliers as List<MVC_DataTransfer.Models.Supplier>)
+                    {
+                        <li>@item.ID @item.CompanyName</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h2>TempData</h2>
+            </div>
+            <div class="card-body">
+                @TempData["Message"]
+            </div>
+</div>
+    </div>
+</div>

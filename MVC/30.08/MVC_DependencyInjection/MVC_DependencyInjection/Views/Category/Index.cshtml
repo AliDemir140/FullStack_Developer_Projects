@@ -1,0 +1,12 @@
+﻿@model List<MVC_DependencyInjection.Models.Northwind.Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.CategoryId @item.CategoryName @item.Description</li>
+    }
+</ul>

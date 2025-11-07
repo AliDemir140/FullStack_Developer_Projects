@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<table class="table table-hover">
+  <thead>
+      
+      <tr>
+          <th>Transient Instance</th>
+          <th>Scoped Instance</th>
+          <th>Singleton Instance</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td>@ViewBag.Transient1</td>
+        <td>@ViewBag.Scoped1</td>
+        <td>@ViewBag.Singleton1</td>
+      </tr>
+      <tr>
+            <td>@ViewBag.Transient2</td>
+            <td>@ViewBag.Scoped2</td>
+            <td>@ViewBag.Singleton2</td>
+      </tr>
+  </tbody>
+</table>

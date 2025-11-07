@@ -1,0 +1,27 @@
+﻿@model MVC_Layout.Models.Northwind.Supplier
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <form method="post">
+            <div>
+                <label>Şirket Ad: </label>
+                <input type="text" class="form-control" name="CompanyName" />
+            </div>
+            <div>
+                <label>Yetkili Kişi: </label>
+                <input type="text" class="form-control" name="ContactName" />
+            </div>
+            <div>
+                <label>Telefon No: </label>
+                <input type="number" class="form-control" name="Phone" />
+            </div>
+
+            <button class="btn btn-primary">Oluştur</button>
+        </form>
+    </div>
+</div>
+

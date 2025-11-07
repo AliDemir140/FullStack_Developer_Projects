@@ -1,0 +1,57 @@
+﻿@model List<MVC_Layout.Models.Northwind.Supplier>
+@{
+   
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row mt-2">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between">
+                <h3>Tedarikçiler</h3>
+                <a class="btn btn-success" href="/supplier/create">Oluştur</a>
+            </div>
+            <div class="card-body">
+                <!--Tedarikçiler burada listelenecek.-->
+                <table class="table table-hover">
+                   <thead>
+                       <tr>
+                           <th>#</th>
+                           <th>Company Name</th>
+                           <th>Contact Name</th>
+                           <th>Phone Number</th>
+                           <th></th>
+                       </tr>
+                   </thead>
+                   <tbody>
+                       @* <tr>
+                           <td>1</td>
+                           <td>Alfki Company</td>
+                           <td>John Doe</td>
+                           <td>+1 295 553 6565</td>
+                           <td>
+                               <a class="btn btn-warning btn-sm">update</a>
+                               <a class="btn btn-danger btn-sm">delete</a>
+                           </td>
+                       </tr> *@
+
+                       @foreach (var supplier in Model)
+                        {
+                            <tr>
+                                <td>@supplier.SupplierId</td>
+                                <td>@supplier.CompanyName</td>
+                                <td>@supplier.ContactName</td>
+                                <td>@supplier.Phone</td>
+                                <td>
+                                    <a href="/supplier/update/@supplier.SupplierId" class="btn btn-warning btn-sm">update</a>
+                                    <a href="/supplier/delete/@supplier.SupplierId" class="btn btn-danger btn-sm">delete</a>
+                                </td>
+                            </tr>
+                        }
+                   </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
